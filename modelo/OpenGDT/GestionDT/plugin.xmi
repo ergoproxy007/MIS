@@ -5,6 +5,23 @@
     <subManagers xmi:id="_y0UhoZ5eEeiRvrusyhDULg" href="uma://_y0CNwJ5eEeiRvrusyhDULg#_y0UhoZ5eEeiRvrusyhDULg"/>
     <resourceDescriptors xmi:id="_KxgQUZ5bEeiRvrusyhDULg" id="_KxaJsJ5bEeiRvrusyhDULg" uri="deliveryprocesses/Matricula%20Estudiante/model.xmi"/>
     <resourceDescriptors xmi:id="_y0CNxJ5eEeiRvrusyhDULg" id="_y0CNwJ5eEeiRvrusyhDULg" uri="deliveryprocesses/gestiondt_lifecycle/model.xmi"/>
+    <resourceDescriptors xmi:id="_iAAisKS7Eeidi82NuABH1Q" id="-9Q44zIB6Vfcx5TDrvQ7z0w" uri="tasks/definir_tipos_dt.xmi"/>
+    <resourceDescriptors xmi:id="_68Wx4aTDEeidi82NuABH1Q" id="-4U8b-cy5OwuF-9gq5QDQ5g" uri="tasks/seleccionar_herramientas.xmi"/>
+    <resourceDescriptors xmi:id="_P8UdUKTHEeidi82NuABH1Q" id="-EWMIAryKSJGEV-sWCHNtbA" uri="tasks/capacitar_equipo_dt.xmi"/>
+    <resourceDescriptors xmi:id="_wtYGUaTMEeidi82NuABH1Q" id="-htNC1K9xklN1hPt-kq7bKg" uri="tasks/identificar_dt_auto.xmi"/>
+    <resourceDescriptors xmi:id="_BIcqQaTQEeidi82NuABH1Q" id="-1G7Mb2Hj26W8sm7BLVmjKA" uri="tasks/identificar_dt_manual.xmi"/>
+    <resourceDescriptors xmi:id="_IREn4KTSEeidi82NuABH1Q" id="-NFyL5QT-8oCDypxlOckdwg" uri="tasks/definir_plan_comunicacion.xmi"/>
+    <resourceDescriptors xmi:id="_gSEiwaTSEeidi82NuABH1Q" id="-SnG99ktdzH0kCxGHH3wi5g" uri="tasks/comunicar_plan_resultados.xmi"/>
+    <resourceDescriptors xmi:id="_PRL_MKTTEeidi82NuABH1Q" id="-Op8D6rmEWtKFvQjA6s7kuA" uri="tasks/construir_inventario_dt.xmi"/>
+    <resourceDescriptors xmi:id="_aOqj8KTUEeidi82NuABH1Q" id="-Z_ltcbiRCC3MKx_53MS_pw" uri="tasks/recibir_capacitacion_dt.xmi"/>
+    <resourceDescriptors xmi:id="_TBnnEKTXEeidi82NuABH1Q" id="-eqntzRaLeGX8yV7IZ3o4kg" uri="tasks/definir_listado_dt.xmi"/>
+    <resourceDescriptors xmi:id="_d6JWMaTfEeidi82NuABH1Q" id="-K7Zq-coZVpYh-l6S_IPeOw" uri="tasks/estimar_dt.xmi"/>
+    <resourceDescriptors xmi:id="_0ifKIaThEeidi82NuABH1Q" id="-zrE2ePmymk970dgB6Dvmfw" uri="tasks/seleccionar_tecnicas_capital.xmi"/>
+    <resourceDescriptors xmi:id="_T_3FEKTkEeidi82NuABH1Q" id="-4Nuc95JXd_bmyYidJMKWVQ" uri="tasks/medir_dt.xmi"/>
+    <resourceDescriptors xmi:id="_18mkcaTxEeidi82NuABH1Q" id="-T9fvBoG3dNUNATJ4zQ-Vpw" uri="tasks/seleccionar_tecnicas_costo-beneficio.xmi"/>
+    <resourceDescriptors xmi:id="_RZqhEaTzEeidi82NuABH1Q" id="-ia6GNl5Lyzlc945_kl-2oQ" uri="tasks/seleccionar_tecnicas_interes.xmi"/>
+    <resourceDescriptors xmi:id="_WDINQaT4Eeidi82NuABH1Q" id="-ITMfE9L-T2wxp4GpB2X6kA" uri="tasks/registrar_medicion_dt.xmi"/>
+    <resourceDescriptors xmi:id="_XJwzQKT6Eeidi82NuABH1Q" id="-pJirZ9L129cX73yvhX-DKQ" uri="tasks/informar_dt.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_OOBUkJ3ZEeiQaaw-dYVnMQ" name="GestionDT" guid="_OOBUkJ3ZEeiQaaw-dYVnMQ">
     <methodElementProperty xmi:id="_OOHbM53ZEeiQaaw-dYVnMQ" name="plugin_synFree" value="true"/>
@@ -63,34 +80,42 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_TFEsM55fEeiRvrusyhDULg" name="stakeholder" guid="_TFEsM55fEeiRvrusyhDULg" presentationName="Stakeholder">
             <methodElementProperty xmi:id="_TFpT8J5fEeiRvrusyhDULg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Yqs38J5fEeiRvrusyhDULg" name="definir_tipos_dt" guid="_Yqs38J5fEeiRvrusyhDULg" presentationName="Definir tipos DT" briefDescription="Definir que tipos de deuda técnica se van a trabajar en el proyecto" mandatoryInput="_2GjsMJ8TEeiJnaL32V111A" output="_jH8gYJ8DEeiJnaL32V111A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Yqs38J5fEeiRvrusyhDULg" name="definir_tipos_dt" guid="_Yqs38J5fEeiRvrusyhDULg" presentationName="Definir tipos DT" briefDescription="Definir que tipos de deuda técnica se van a trabajar en el proyecto" performedBy="_TFEsMJ5fEeiRvrusyhDULg" mandatoryInput="_2GjsMJ8TEeiJnaL32V111A" output="_jH8gYJ8DEeiJnaL32V111A" additionallyPerformedBy="_TFEsMp5fEeiRvrusyhDULg _TFEsMZ5fEeiRvrusyhDULg">
             <methodElementProperty xmi:id="_bxfpwJ5fEeiRvrusyhDULg" name="me_edited" value="true"/>
+            <presentation xmi:id="-9Q44zIB6Vfcx5TDrvQ7z0w" href="uma://-9Q44zIB6Vfcx5TDrvQ7z0w#-9Q44zIB6Vfcx5TDrvQ7z0w"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9a0UUJ5gEeiRvrusyhDULg" name="seleccionar_herramientas" guid="_9a0UUJ5gEeiRvrusyhDULg" presentationName="Seleccionar Herramientas" briefDescription="Seleccionar herramientas para identificar la deuda técnica" mandatoryInput="_j5or8J8XEeiJnaL32V111A" output="_rF9vwJ8XEeiJnaL32V111A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9a0UUJ5gEeiRvrusyhDULg" name="seleccionar_herramientas" guid="_9a0UUJ5gEeiRvrusyhDULg" presentationName="Seleccionar Herramientas" briefDescription="Seleccionar herramientas para identificar la deuda técnica" performedBy="_TFEsMJ5fEeiRvrusyhDULg" mandatoryInput="_j5or8J8XEeiJnaL32V111A" output="_rF9vwJ8XEeiJnaL32V111A" additionallyPerformedBy="_TFEsMp5fEeiRvrusyhDULg _TFEsMZ5fEeiRvrusyhDULg">
             <methodElementProperty xmi:id="_KC7EUJ5hEeiRvrusyhDULg" name="me_edited" value="true"/>
+            <presentation xmi:id="-4U8b-cy5OwuF-9gq5QDQ5g" href="uma://-4U8b-cy5OwuF-9gq5QDQ5g#-4U8b-cy5OwuF-9gq5QDQ5g"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_LFzdoJ5hEeiRvrusyhDULg" name="capacitar_equipo_dt" guid="_LFzdoJ5hEeiRvrusyhDULg" presentationName="Capacitar Equipo DT" briefDescription="Capacitar al equipo de desarrollo sobre los principios básicos de deuda técnica" mandatoryInput="_jH8gYJ8DEeiJnaL32V111A _rF9vwJ8XEeiJnaL32V111A" output="_KRshEJ8aEeiJnaL32V111A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_LFzdoJ5hEeiRvrusyhDULg" name="capacitar_equipo_dt" guid="_LFzdoJ5hEeiRvrusyhDULg" presentationName="Capacitar Equipo DT" briefDescription="Capacitar al equipo de desarrollo sobre los principios básicos de deuda técnica" performedBy="_TFEsMJ5fEeiRvrusyhDULg" mandatoryInput="_jH8gYJ8DEeiJnaL32V111A _rF9vwJ8XEeiJnaL32V111A" output="_KRshEJ8aEeiJnaL32V111A" additionallyPerformedBy="_TFEsMZ5fEeiRvrusyhDULg">
             <methodElementProperty xmi:id="_SWjucJ5hEeiRvrusyhDULg" name="me_edited" value="true"/>
+            <presentation xmi:id="-EWMIAryKSJGEV-sWCHNtbA" href="uma://-EWMIAryKSJGEV-sWCHNtbA#-EWMIAryKSJGEV-sWCHNtbA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TiA08J5hEeiRvrusyhDULg" name="identificar_dt_auto" guid="_TiA08J5hEeiRvrusyhDULg" presentationName="Identificar DT auto" briefDescription="Identificar deuda técnica con análisis de estático de código" mandatoryInput="_EDji0J8lEeiJnaL32V111A" output="_udCYQJ8iEeiJnaL32V111A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TiA08J5hEeiRvrusyhDULg" name="identificar_dt_auto" guid="_TiA08J5hEeiRvrusyhDULg" presentationName="Identificar DT auto" briefDescription="Identificar deuda técnica con análisis de estático de código" performedBy="_TFEsMZ5fEeiRvrusyhDULg _TFEsMJ5fEeiRvrusyhDULg" mandatoryInput="_EDji0J8lEeiJnaL32V111A" output="_udCYQJ8iEeiJnaL32V111A">
             <methodElementProperty xmi:id="_jy1_IJ5hEeiRvrusyhDULg" name="me_edited" value="true"/>
+            <presentation xmi:id="-htNC1K9xklN1hPt-kq7bKg" href="uma://-htNC1K9xklN1hPt-kq7bKg#-htNC1K9xklN1hPt-kq7bKg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_olkuUJ5hEeiRvrusyhDULg" name="identificar_dt_manual" guid="_olkuUJ5hEeiRvrusyhDULg" presentationName="Identificar DT manual" briefDescription="Identificar deuda técnica con revisiones de criterio de experto" mandatoryInput="_3GxOMJ8iEeiJnaL32V111A" output="_yjwFoJ-IEeiJnaL32V111A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_olkuUJ5hEeiRvrusyhDULg" name="identificar_dt_manual" guid="_olkuUJ5hEeiRvrusyhDULg" presentationName="Identificar DT manual" briefDescription="Identificar deuda técnica con revisiones de criterio de experto" performedBy="_TFEsMJ5fEeiRvrusyhDULg _TFEsMZ5fEeiRvrusyhDULg" mandatoryInput="_3GxOMJ8iEeiJnaL32V111A" output="_yjwFoJ-IEeiJnaL32V111A">
             <methodElementProperty xmi:id="_rInS0Z5hEeiRvrusyhDULg" name="me_edited" value="true"/>
+            <presentation xmi:id="-1G7Mb2Hj26W8sm7BLVmjKA" href="uma://-1G7Mb2Hj26W8sm7BLVmjKA#-1G7Mb2Hj26W8sm7BLVmjKA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_1X2G8J5hEeiRvrusyhDULg" name="definir_plan_comunicacion" guid="_1X2G8J5hEeiRvrusyhDULg" presentationName="Definir plan comunicacion" briefDescription="Definir plan de comunicación y resultados">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_1X2G8J5hEeiRvrusyhDULg" name="definir_plan_comunicacion" guid="_1X2G8J5hEeiRvrusyhDULg" presentationName="Definir plan comunicacion" briefDescription="Definir plan de comunicación y resultados" performedBy="_TFEsMp5fEeiRvrusyhDULg">
             <methodElementProperty xmi:id="_7FuPwJ5hEeiRvrusyhDULg" name="me_edited" value="true"/>
+            <presentation xmi:id="-NFyL5QT-8oCDypxlOckdwg" href="uma://-NFyL5QT-8oCDypxlOckdwg#-NFyL5QT-8oCDypxlOckdwg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7yLGEJ5hEeiRvrusyhDULg" name="comunicar_plan_resultados" guid="_7yLGEJ5hEeiRvrusyhDULg" presentationName="Comunicar Plan Resultados" briefDescription="Comunicar Plan de Identificación y Resultados " mandatoryInput="_udCYQJ8iEeiJnaL32V111A" output="_urzogJ8sEeiJnaL32V111A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7yLGEJ5hEeiRvrusyhDULg" name="comunicar_plan_resultados" guid="_7yLGEJ5hEeiRvrusyhDULg" presentationName="Comunicar Plan Resultados" briefDescription="Comunicar Plan de Identificación y Resultados " performedBy="_TFEsMp5fEeiRvrusyhDULg" mandatoryInput="_udCYQJ8iEeiJnaL32V111A" output="_urzogJ8sEeiJnaL32V111A">
             <methodElementProperty xmi:id="_FsezEJ5iEeiRvrusyhDULg" name="me_edited" value="true"/>
+            <presentation xmi:id="-SnG99ktdzH0kCxGHH3wi5g" href="uma://-SnG99ktdzH0kCxGHH3wi5g#-SnG99ktdzH0kCxGHH3wi5g"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_GiRyoJ5iEeiRvrusyhDULg" name="construir_inventario_dt" guid="_GiRyoJ5iEeiRvrusyhDULg" presentationName="Construir inventario DT" briefDescription="Construir el inventario de la deuda técnica identificada" mandatoryInput="_udCYQJ8iEeiJnaL32V111A _urzogJ8sEeiJnaL32V111A" output="_BqzCEJ8tEeiJnaL32V111A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_GiRyoJ5iEeiRvrusyhDULg" name="construir_inventario_dt" guid="_GiRyoJ5iEeiRvrusyhDULg" presentationName="Construir inventario DT" briefDescription="Construir el inventario de la deuda técnica identificada" performedBy="_TFEsMp5fEeiRvrusyhDULg _TFEsMZ5fEeiRvrusyhDULg" mandatoryInput="_udCYQJ8iEeiJnaL32V111A _urzogJ8sEeiJnaL32V111A" output="_BqzCEJ8tEeiJnaL32V111A" additionallyPerformedBy="_TFEsMJ5fEeiRvrusyhDULg">
             <methodElementProperty xmi:id="_L51tMJ5iEeiRvrusyhDULg" name="me_edited" value="true"/>
+            <presentation xmi:id="-Op8D6rmEWtKFvQjA6s7kuA" href="uma://-Op8D6rmEWtKFvQjA6s7kuA#-Op8D6rmEWtKFvQjA6s7kuA"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_jH8gYJ8DEeiJnaL32V111A" name="listado_tipos_dt" guid="_jH8gYJ8DEeiJnaL32V111A" presentationName="Listado Tipos DT" briefDescription="Seleccion de los tipos de deuda técnica a trabajar en el proyecto">
             <methodElementProperty xmi:id="_CswgEJ8GEeiJnaL32V111A" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_2GjsMJ8TEeiJnaL32V111A" name="estudio_tipos_de_dt" guid="_2GjsMJ8TEeiJnaL32V111A" presentationName="Estudio Tipos de DT" briefDescription="Estudio de los Tipos de DT y cuales son importantes para los objetivos del proyecto">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_2GjsMJ8TEeiJnaL32V111A" name="tipos_dt_analizar" guid="_2GjsMJ8TEeiJnaL32V111A" presentationName="Tipos de DT por Analizar" briefDescription="Estudio de los Tipos de DT y cuales son importantes para los objetivos del proyecto">
             <methodElementProperty xmi:id="_XjFtYJ8UEeiJnaL32V111A" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_j5or8J8XEeiJnaL32V111A" name="analisis_herramientas_dt" guid="_j5or8J8XEeiJnaL32V111A" presentationName="Analisis Herramientas DT" briefDescription="Analisis del las Herramientas para la detección de la DT (ej: Sonar)">
@@ -120,8 +145,9 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_KsVP0J80EeiJnaL32V111A" name="system" guid="_KsVP0J80EeiJnaL32V111A" presentationName="System">
             <methodElementProperty xmi:id="_NUtnUJ80EeiJnaL32V111A" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_0zXCsJ-GEeiJnaL32V111A" name="recibir_capacitacion_dt" guid="_0zXCsJ-GEeiJnaL32V111A" presentationName="Recibir capacitacion DT" briefDescription="Recibir capacitación y establecer un plan de aprendizaje en deuda técnica">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_0zXCsJ-GEeiJnaL32V111A" name="recibir_capacitacion_dt" guid="_0zXCsJ-GEeiJnaL32V111A" presentationName="Recibir capacitacion DT" briefDescription="Recibir capacitación y establecer un plan de aprendizaje en deuda técnica" performedBy="_TFEsMZ5fEeiRvrusyhDULg" additionallyPerformedBy="_TFEsMJ5fEeiRvrusyhDULg">
             <methodElementProperty xmi:id="_9nl4cJ-GEeiJnaL32V111A" name="me_edited" value="true"/>
+            <presentation xmi:id="-Z_ltcbiRCC3MKx_53MS_pw" href="uma://-Z_ltcbiRCC3MKx_53MS_pw#-Z_ltcbiRCC3MKx_53MS_pw"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_yjwFoJ-IEeiJnaL32V111A" name="listado_dt_manual" guid="_yjwFoJ-IEeiJnaL32V111A" presentationName="Listado DT Manual" briefDescription="Listado DT Manual">
             <methodElementProperty xmi:id="_4UnRAJ-IEeiJnaL32V111A" name="me_edited" value="true"/>
@@ -130,57 +156,131 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_vK5nEJ5iEeiRvrusyhDULg" name="medicion" guid="_vK5nEJ5iEeiRvrusyhDULg" presentationName="Medicion" briefDescription="Medición">
           <methodElementProperty xmi:id="_vK5nEZ5iEeiRvrusyhDULg" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_42zEoJ5iEeiRvrusyhDULg" name="me_edited" value="true"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_EcKlQJ5jEeiRvrusyhDULg" name="definir_listado_dt" guid="_EcKlQJ5jEeiRvrusyhDULg" presentationName="Definir listado DT" briefDescription="Definir un listado de items de deuda técnica a trabajar">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_EcKlQJ5jEeiRvrusyhDULg" name="definir_listado_dt" guid="_EcKlQJ5jEeiRvrusyhDULg" presentationName="Definir listado DT" briefDescription="Definir un listado de items de deuda técnica a trabajar" performedBy="_TFEsMp5fEeiRvrusyhDULg _dGCHwKTWEeidi82NuABH1Q" mandatoryInput="_XLDXQKT7Eeidi82NuABH1Q" output="_PZqpIKT8Eeidi82NuABH1Q">
             <methodElementProperty xmi:id="_dQpnAJ5tEeiRvrusyhDULg" name="me_edited" value="true"/>
+            <presentation xmi:id="-eqntzRaLeGX8yV7IZ3o4kg" href="uma://-eqntzRaLeGX8yV7IZ3o4kg#-eqntzRaLeGX8yV7IZ3o4kg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_eJBZcJ5tEeiRvrusyhDULg" name="estimar_dt" guid="_eJBZcJ5tEeiRvrusyhDULg" presentationName="Estimar DT" briefDescription="Estimar deuda técnica con herramientas de análisis estático de código">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_eJBZcJ5tEeiRvrusyhDULg" name="estimar_dt" guid="_eJBZcJ5tEeiRvrusyhDULg" presentationName="Estimar DT" briefDescription="Estimar deuda técnica con herramientas de análisis estático de código" performedBy="_TFEsMZ5fEeiRvrusyhDULg" mandatoryInput="_PZqpIKT8Eeidi82NuABH1Q" output="_sViGEKT9Eeidi82NuABH1Q" additionallyPerformedBy="_TFEsMp5fEeiRvrusyhDULg _TFEsMJ5fEeiRvrusyhDULg">
             <methodElementProperty xmi:id="_nLrswJ5tEeiRvrusyhDULg" name="me_edited" value="true"/>
+            <presentation xmi:id="-K7Zq-coZVpYh-l6S_IPeOw" href="uma://-K7Zq-coZVpYh-l6S_IPeOw#-K7Zq-coZVpYh-l6S_IPeOw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_omNxEJ5tEeiRvrusyhDULg" name="seleccionar_metodos_medicion" guid="_omNxEJ5tEeiRvrusyhDULg" presentationName="Seleccionar metodos medicion" briefDescription="Seleccionar métodos de medición para el calculo de Capital e Interés">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_omNxEJ5tEeiRvrusyhDULg" name="seleccionar_tecnicas_interes" guid="_omNxEJ5tEeiRvrusyhDULg" presentationName="Seleccionar tecnicas interes" briefDescription="Seleccionar tecnicas para la estimación interes" performedBy="_o_8UAKThEeidi82NuABH1Q" mandatoryInput="_gALoEKT_Eeidi82NuABH1Q" output="_gALoEKT_Eeidi82NuABH1Q">
             <methodElementProperty xmi:id="_xLF8MJ5tEeiRvrusyhDULg" name="me_edited" value="true"/>
+            <presentation xmi:id="-ia6GNl5Lyzlc945_kl-2oQ" href="uma://-ia6GNl5Lyzlc945_kl-2oQ#-ia6GNl5Lyzlc945_kl-2oQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_01S9EJ5tEeiRvrusyhDULg" name="tecnicas_capital" guid="_01S9EJ5tEeiRvrusyhDULg" presentationName="Tecnicas capital" briefDescription="Técnicas para calcular capital">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_01S9EJ5tEeiRvrusyhDULg" name="seleccionar_tecnicas_capital" guid="_01S9EJ5tEeiRvrusyhDULg" presentationName="Seleccionar tecnicas capital" briefDescription="Técnicas para calcular capital" performedBy="_o_8UAKThEeidi82NuABH1Q" mandatoryInput="_YimcMKT_Eeidi82NuABH1Q" output="_YimcMKT_Eeidi82NuABH1Q">
             <methodElementProperty xmi:id="_CMg10J5uEeiRvrusyhDULg" name="me_edited" value="true"/>
+            <presentation xmi:id="-zrE2ePmymk970dgB6Dvmfw" href="uma://-zrE2ePmymk970dgB6Dvmfw#-zrE2ePmymk970dgB6Dvmfw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_8aNgAJ5tEeiRvrusyhDULg" name="tecnicas_interes" guid="_8aNgAJ5tEeiRvrusyhDULg" presentationName="Tecnicas interes" briefDescription="Técnicas para calcular interés">
-            <methodElementProperty xmi:id="_CMm8cJ5uEeiRvrusyhDULg" name="me_edited" value="true"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_DNRvQJ5uEeiRvrusyhDULg" name="seleccionar_metodos_costo-beneficio" guid="_DNRvQJ5uEeiRvrusyhDULg" presentationName="Seleccionar metodos costo-beneficio" briefDescription="Seleccionar métodos de estimación de deuda técnica para establecer costos y beneficios">
-            <methodElementProperty xmi:id="_Qb2pYJ5uEeiRvrusyhDULg" name="me_edited" value="true"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TfvRIJ5uEeiRvrusyhDULg" name="tecnicas_costo-beneficio" guid="_TfvRIJ5uEeiRvrusyhDULg" presentationName="Tecnicas costo-beneficio" briefDescription="Técnicas para el calculo de costo-beneficio">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TfvRIJ5uEeiRvrusyhDULg" name="seleccionar_tecnicas_costo-beneficio" guid="_TfvRIJ5uEeiRvrusyhDULg" presentationName="Seleccionar tecnicas costo-beneficio" briefDescription="Técnicas para el calculo de costo-beneficio" performedBy="_o_8UAKThEeidi82NuABH1Q" mandatoryInput="_hchqQKT_Eeidi82NuABH1Q" output="_hchqQKT_Eeidi82NuABH1Q">
             <methodElementProperty xmi:id="_apVKAJ5uEeiRvrusyhDULg" name="me_edited" value="true"/>
+            <presentation xmi:id="-T9fvBoG3dNUNATJ4zQ-Vpw" href="uma://-T9fvBoG3dNUNATJ4zQ-Vpw#-T9fvBoG3dNUNATJ4zQ-Vpw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cF2yYJ5uEeiRvrusyhDULg" name="medir_e_informar_dt" guid="_cF2yYJ5uEeiRvrusyhDULg" presentationName="Medir e informar DT" briefDescription="Medir e informar incremento intencional de deuda técnica">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cF2yYJ5uEeiRvrusyhDULg" name="medir_dt" guid="_cF2yYJ5uEeiRvrusyhDULg" presentationName="Medir DT" briefDescription="Medir incremento intencional de deuda técnica" performedBy="_TFEsMp5fEeiRvrusyhDULg _o_8UAKThEeidi82NuABH1Q" mandatoryInput="_aDBUoKdFEeiakvLLhnBofA" output="_RvOdAKdGEeiakvLLhnBofA">
             <methodElementProperty xmi:id="_jHC9MJ5uEeiRvrusyhDULg" name="me_edited" value="true"/>
+            <presentation xmi:id="-4Nuc95JXd_bmyYidJMKWVQ" href="uma://-4Nuc95JXd_bmyYidJMKWVQ#-4Nuc95JXd_bmyYidJMKWVQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_dGCHwKTWEeidi82NuABH1Q" name="product_owner" guid="_dGCHwKTWEeidi82NuABH1Q" presentationName="Product Owner" briefDescription="Dueño de producto, encargado de la definición del producto">
+            <methodElementProperty xmi:id="_hNXwkKTWEeidi82NuABH1Q" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_o_8UAKThEeidi82NuABH1Q" name="lider_monitoreo" guid="_o_8UAKThEeidi82NuABH1Q" presentationName="Lider Monitoreo" briefDescription="Lider de Monitoreo">
+            <methodElementProperty xmi:id="_rROaIKThEeidi82NuABH1Q" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ISpf8KT4Eeidi82NuABH1Q" name="registrar_medicion_dt" guid="_ISpf8KT4Eeidi82NuABH1Q" presentationName="Registrar medicion DT" briefDescription="Resgistar medicion de la DT según los datos de la revisión de código" performedBy="_TFEsMp5fEeiRvrusyhDULg _TFEsMZ5fEeiRvrusyhDULg" mandatoryInput="_RvOdAKdGEeiakvLLhnBofA _sViGEKT9Eeidi82NuABH1Q" output="_LlInYKdIEeiakvLLhnBofA">
+            <methodElementProperty xmi:id="_PXkUMKT4Eeidi82NuABH1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-ITMfE9L-T2wxp4GpB2X6kA" href="uma://-ITMfE9L-T2wxp4GpB2X6kA#-ITMfE9L-T2wxp4GpB2X6kA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WnsA8KT6Eeidi82NuABH1Q" name="informar_dt" guid="_WnsA8KT6Eeidi82NuABH1Q" presentationName="Informar DT" briefDescription="Informar incremento intencional de deuda técnica" performedBy="_TFEsMp5fEeiRvrusyhDULg" output="_6AX6sKdIEeiakvLLhnBofA">
+            <methodElementProperty xmi:id="_XJqsoKT6Eeidi82NuABH1Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-pJirZ9L129cX73yvhX-DKQ" href="uma://-pJirZ9L129cX73yvhX-DKQ#-pJirZ9L129cX73yvhX-DKQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_XLDXQKT7Eeidi82NuABH1Q" name="listado_dt_identificada" guid="_XLDXQKT7Eeidi82NuABH1Q" presentationName="Listado DT identificada" briefDescription="Listado de DT identificada">
+            <methodElementProperty xmi:id="_JrJAEKT8Eeidi82NuABH1Q" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_PZqpIKT8Eeidi82NuABH1Q" name="listado_dt_a_medir" guid="_PZqpIKT8Eeidi82NuABH1Q" presentationName="Listado DT para medir" briefDescription="Listado de DT para medir">
+            <methodElementProperty xmi:id="_mAMxIKT8Eeidi82NuABH1Q" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_sViGEKT9Eeidi82NuABH1Q" name="listado_dt_estimada" guid="_sViGEKT9Eeidi82NuABH1Q" presentationName="listado DT estimada" briefDescription="Listodo de DT estimada">
+            <methodElementProperty xmi:id="_LyjRIKT_Eeidi82NuABH1Q" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_YimcMKT_Eeidi82NuABH1Q" name="listado_tecnicas_estimacion_capital" guid="_YimcMKT_Eeidi82NuABH1Q" presentationName="Listado tecnicas estimacion capital" briefDescription="Listado Tecnicas de estimación de capital">
+            <methodElementProperty xmi:id="_cOzoMKT_Eeidi82NuABH1Q" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_gALoEKT_Eeidi82NuABH1Q" name="listado_tecnicas_estimacion_interes" guid="_gALoEKT_Eeidi82NuABH1Q" presentationName="Listado Tecnicas estimacion interes">
+            <methodElementProperty xmi:id="_iw8fgKT_Eeidi82NuABH1Q" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_hchqQKT_Eeidi82NuABH1Q" name="listado_tecnicas_estimacion_costo-beneficio" guid="_hchqQKT_Eeidi82NuABH1Q" presentationName="Listado Tecnicas estimacion costo-beneficio">
+            <methodElementProperty xmi:id="_iacEAKT_Eeidi82NuABH1Q" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_aDBUoKdFEeiakvLLhnBofA" name="lista_intencional_dt" guid="_aDBUoKdFEeiakvLLhnBofA" presentationName="Lista intencional DT" briefDescription="Identificar nueva deuda técnica intencional">
+            <methodElementProperty xmi:id="_l0ewgKdFEeiakvLLhnBofA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_RvOdAKdGEeiakvLLhnBofA" name="lista_intencional_dt_medida" guid="_RvOdAKdGEeiakvLLhnBofA" presentationName="Lista intencional DT Medida" briefDescription="Identificar nueva deuda técnica intencional">
+            <methodElementProperty xmi:id="_SZIVoKdGEeiakvLLhnBofA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_LlInYKdIEeiakvLLhnBofA" name="almacenar_dt_medida" guid="_LlInYKdIEeiakvLLhnBofA" presentationName="Almacenar DT medida" briefDescription="Almacenar DT medida">
+            <methodElementProperty xmi:id="_xa7H0KdIEeiakvLLhnBofA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_6AX6sKdIEeiakvLLhnBofA" name="informe_dt_medida" guid="_6AX6sKdIEeiakvLLhnBofA" presentationName="Informe DT medida">
+            <methodElementProperty xmi:id="_-0g_IKdIEeiakvLLhnBofA" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_lctNAJ5uEeiRvrusyhDULg" name="priorizacion" guid="_lctNAJ5uEeiRvrusyhDULg" presentationName="Priorizacion" briefDescription="Priorización">
           <methodElementProperty xmi:id="_lctNAZ5uEeiRvrusyhDULg" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_pvFBIJ5uEeiRvrusyhDULg" name="me_edited" value="true"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_sjSOIJ5uEeiRvrusyhDULg" name="conocer_ojetivos_negocio" guid="_sjSOIJ5uEeiRvrusyhDULg" presentationName="Conocer ojetivos negocio" briefDescription="Conocer objetivos de negocio con relación a la deuda técnica identificada">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_sjSOIJ5uEeiRvrusyhDULg" name="conocer_objetivos_negocio" guid="_sjSOIJ5uEeiRvrusyhDULg" presentationName="Conocer objetivos negocio" briefDescription="Conocer objetivos de negocio con relación a la deuda técnica identificada" performedBy="_dGCHwKTWEeidi82NuABH1Q" mandatoryInput="_FIgEsKdUEeiakvLLhnBofA" output="_iRJAEKdaEeiakvLLhnBofA" additionallyPerformedBy="_TFEsMJ5fEeiRvrusyhDULg _TFEsMZ5fEeiRvrusyhDULg _TFEsMp5fEeiRvrusyhDULg">
             <methodElementProperty xmi:id="_5u_acJ5uEeiRvrusyhDULg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7CMHsJ5uEeiRvrusyhDULg" name="seleccionar_estrategia_priorizacion" guid="_7CMHsJ5uEeiRvrusyhDULg" presentationName="Seleccionar estrategia priorizacion" briefDescription="Seleccionar estrategia de priorización de deuda técnica">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7CMHsJ5uEeiRvrusyhDULg" name="seleccionar_estrategia_priorizacion" guid="_7CMHsJ5uEeiRvrusyhDULg" presentationName="Seleccionar estrategia priorizacion" briefDescription="Seleccionar estrategia de priorización de deuda técnica" performedBy="_dGCHwKTWEeidi82NuABH1Q _TFEsMp5fEeiRvrusyhDULg" mandatoryInput="_oOSCAKdcEeiakvLLhnBofA" output="_xrDT4KdbEeiakvLLhnBofA">
             <methodElementProperty xmi:id="_FN2DYJ5vEeiRvrusyhDULg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_kBpu0J5vEeiRvrusyhDULg" name="priorizar_por_objetivos" guid="_kBpu0J5vEeiRvrusyhDULg" presentationName="Priorizar por objetivos" briefDescription="Priorizar por objetivos de negocio">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_kBpu0J5vEeiRvrusyhDULg" name="priorizar_por_objetivos" guid="_kBpu0J5vEeiRvrusyhDULg" presentationName="Priorizar por objetivos" briefDescription="Priorizar por objetivos de negocio" performedBy="_o_8UAKThEeidi82NuABH1Q" mandatoryInput="_iRJAEKdaEeiakvLLhnBofA _KQ3PMKdgEeiakvLLhnBofA _mYVFoKdfEeiakvLLhnBofA" output="_tYadMKdfEeiakvLLhnBofA" additionallyPerformedBy="_TFEsMp5fEeiRvrusyhDULg" optionalInput="_tYadMKdfEeiakvLLhnBofA">
             <methodElementProperty xmi:id="_oH7nsJ5vEeiRvrusyhDULg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_o6yA8J5vEeiRvrusyhDULg" name="definir_items_dt_alto_valor" guid="_o6yA8J5vEeiRvrusyhDULg" presentationName="definir items DT alto valor" briefDescription="Definir items de deuda técnica que entregue alto valor al negocio">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_o6yA8J5vEeiRvrusyhDULg" name="definir_items_dt_alto_valor" guid="_o6yA8J5vEeiRvrusyhDULg" presentationName="definir items DT alto valor" briefDescription="Definir items de deuda técnica que entregue alto valor al negocio" performedBy="_dGCHwKTWEeidi82NuABH1Q" mandatoryInput="_mYVFoKdfEeiakvLLhnBofA" additionallyPerformedBy="_TFEsMp5fEeiRvrusyhDULg" optionalInput="_KQ3PMKdgEeiakvLLhnBofA">
             <methodElementProperty xmi:id="_wM6KwJ5vEeiRvrusyhDULg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ZkeI0J5wEeiRvrusyhDULg" name="priorizar_por_costo-beneficio" guid="_ZkeI0J5wEeiRvrusyhDULg" presentationName="Priorizar por costo-beneficio" briefDescription="Priorizar por costo-beneficio">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ZkeI0J5wEeiRvrusyhDULg" name="priorizar_por_costo-beneficio" guid="_ZkeI0J5wEeiRvrusyhDULg" presentationName="Priorizar por costo-beneficio" briefDescription="Priorizar por costo-beneficio" performedBy="_o_8UAKThEeidi82NuABH1Q" mandatoryInput="_mYVFoKdfEeiakvLLhnBofA" output="_zz5goKdkEeiakvLLhnBofA" additionallyPerformedBy="_TFEsMp5fEeiRvrusyhDULg">
             <methodElementProperty xmi:id="_cE2a4J5wEeiRvrusyhDULg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_fVBLIJ5wEeiRvrusyhDULg" name="priorizar_por_capital-interes" guid="_fVBLIJ5wEeiRvrusyhDULg" presentationName="Priorizar por capital-interes" briefDescription="Priorizar por capital e interés">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_fVBLIJ5wEeiRvrusyhDULg" name="priorizar_por_capital-interes" guid="_fVBLIJ5wEeiRvrusyhDULg" presentationName="Priorizar por capital-interes" briefDescription="Priorizar por capital e interés" performedBy="_o_8UAKThEeidi82NuABH1Q" mandatoryInput="_mYVFoKdfEeiakvLLhnBofA" additionallyPerformedBy="_TFEsMp5fEeiRvrusyhDULg" optionalInput="_TQBGEKdhEeiakvLLhnBofA">
             <methodElementProperty xmi:id="_kttuIJ5wEeiRvrusyhDULg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mYspQJ5wEeiRvrusyhDULg" name="priorizar_por_peso" guid="_mYspQJ5wEeiRvrusyhDULg" presentationName="Priorizar por peso" briefDescription="Priorizar por peso en deuda técnica">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mYspQJ5wEeiRvrusyhDULg" name="priorizar_por_peso" guid="_mYspQJ5wEeiRvrusyhDULg" presentationName="Priorizar por peso" briefDescription="Priorizar por peso en deuda técnica" performedBy="_o_8UAKThEeidi82NuABH1Q" mandatoryInput="_mYVFoKdfEeiakvLLhnBofA" output="_rQhU4KdlEeiakvLLhnBofA">
             <methodElementProperty xmi:id="_aXvjYJ5xEeiRvrusyhDULg" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cV1nwJ5xEeiRvrusyhDULg" name="organizar_items_dt" guid="_cV1nwJ5xEeiRvrusyhDULg" presentationName="Organizar items DT" briefDescription="Organizar ítems de deuda técnica para posteriores versiones">
             <methodElementProperty xmi:id="_jzgTMJ5xEeiRvrusyhDULg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_FIgEsKdUEeiakvLLhnBofA" name="objetivos_negocio" guid="_FIgEsKdUEeiakvLLhnBofA" presentationName="Objetivos negocio" briefDescription="Listado de objetivos de negocio a relacionar con la DT identificada">
+            <methodElementProperty xmi:id="_PSudAKdUEeiakvLLhnBofA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_iRJAEKdaEeiakvLLhnBofA" name="objetivos_negocio_resul_iteracion" guid="_iRJAEKdaEeiakvLLhnBofA" presentationName="Objetivos negocio resul iteracion" briefDescription="Listado de objetivos de negocio seleccionados para la iteración">
+            <methodElementProperty xmi:id="_rmaGUKdaEeiakvLLhnBofA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_xrDT4KdbEeiakvLLhnBofA" name="estrategia_priorizacion_seleccionada" guid="_xrDT4KdbEeiakvLLhnBofA" presentationName="Estrategia priorizacion seleccionada" briefDescription="Estrategia priorizacion seleccionada adaptada a los objetivos de negocio">
+            <methodElementProperty xmi:id="_nsNPsKdcEeiakvLLhnBofA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_oOSCAKdcEeiakvLLhnBofA" name="busqueda_estrategias_priorizacion" guid="_oOSCAKdcEeiakvLLhnBofA" presentationName="Busqueda estrategias priorizacion" briefDescription="Busqueda de estrategias de priorizacion que se adapten a los objetivos de negocio">
+            <methodElementProperty xmi:id="_-_mdsKdcEeiakvLLhnBofA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_mYVFoKdfEeiakvLLhnBofA" name="listado_dt_estimada" guid="_mYVFoKdfEeiakvLLhnBofA" presentationName="Listado DT estimada" briefDescription="Listado de deuda técnica estimada o medida">
+            <methodElementProperty xmi:id="_rkbXEKdfEeiakvLLhnBofA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_tYadMKdfEeiakvLLhnBofA" name="listado_dt_priorizada_objetivos" guid="_tYadMKdfEeiakvLLhnBofA" presentationName="Listado DT priorizada objetivos" briefDescription="Listado de deuda técnica priorizada por objetivos de negocio">
+            <methodElementProperty xmi:id="_xWW5cKdfEeiakvLLhnBofA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KQ3PMKdgEeiakvLLhnBofA" name="listado_dt_alto_valor" guid="_KQ3PMKdgEeiakvLLhnBofA" presentationName="Listado DT alto valor" briefDescription="Listado de deuda técnica de alto valor de negocio">
+            <methodElementProperty xmi:id="_NV-mAKdgEeiakvLLhnBofA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_TQBGEKdhEeiakvLLhnBofA" name="listado_dt_priorizada_capital-interes" guid="_TQBGEKdhEeiakvLLhnBofA" presentationName="Listado DT priorizada capital-interes" briefDescription="Listado DT priorizada capital-interes">
+            <methodElementProperty xmi:id="_aK0NoKdkEeiakvLLhnBofA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_zz5goKdkEeiakvLLhnBofA" name="listado_dt_priorizada_costo-beneficio" guid="_zz5goKdkEeiakvLLhnBofA" presentationName="Listado DT priorizada costo-beneficio" briefDescription="Listado DT priorizada costo-beneficio">
+            <methodElementProperty xmi:id="_7oEAgKdkEeiakvLLhnBofA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_rQhU4KdlEeiakvLLhnBofA" name="listado_dt_priorizada_peso" guid="_rQhU4KdlEeiakvLLhnBofA" presentationName="Listado DT priorizada peso" briefDescription="Listado de deuda técnica priorizada por peso">
+            <methodElementProperty xmi:id="_1Adk8KdlEeiakvLLhnBofA" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_lKCoUJ5xEeiRvrusyhDULg" name="repago" guid="_lKCoUJ5xEeiRvrusyhDULg" presentationName="Amortizacion" briefDescription="Amortización">

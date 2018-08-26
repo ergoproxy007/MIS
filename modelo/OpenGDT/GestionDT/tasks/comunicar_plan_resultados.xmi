@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SnG99ktdzH0kCxGHH3wi5g" name="comunicar_plan_resultados,_7yLGEJ5hEeiRvrusyhDULg" guid="-SnG99ktdzH0kCxGHH3wi5g">
+  <sections xmi:id="_e8geAKTSEeidi82NuABH1Q" name="Definir estrategia para mostrar los resultados de la disminución de DT" guid="_e8geAKTSEeidi82NuABH1Q"/>
+</org.eclipse.epf.uma:TaskDescription>

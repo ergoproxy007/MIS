@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-K7Zq-coZVpYh-l6S_IPeOw" name="estimar_dt,_eJBZcJ5tEeiRvrusyhDULg" guid="-K7Zq-coZVpYh-l6S_IPeOw">
+  <sections xmi:id="_2jit0KTfEeidi82NuABH1Q" name="Utilizar criterio de experto para la estimación de subtipos de DT" guid="_2jit0KTfEeidi82NuABH1Q"/>
+  <sections xmi:id="_QTdMIKThEeidi82NuABH1Q" name="Registrar y documentar la estimación para subtipos de DT" guid="_QTdMIKThEeidi82NuABH1Q"/>
+</org.eclipse.epf.uma:TaskDescription>

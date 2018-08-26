@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1G7Mb2Hj26W8sm7BLVmjKA" name="identificar_dt_manual,_olkuUJ5hEeiRvrusyhDULg" guid="-1G7Mb2Hj26W8sm7BLVmjKA">
+  <sections xmi:id="_8LzxIKTPEeidi82NuABH1Q" name="Revisión de deficiencias de código relacionados con DT" guid="_8LzxIKTPEeidi82NuABH1Q"/>
+  <sections xmi:id="_UEX20KTSEeidi82NuABH1Q" name="Definir tiempos para la inspección manual de código" guid="_UEX20KTSEeidi82NuABH1Q"/>
+  <sections xmi:id="_Y9P8MKTQEeidi82NuABH1Q" name="Ir a plan de relacionamiento de DT" guid="_Y9P8MKTQEeidi82NuABH1Q"/>
+</org.eclipse.epf.uma:TaskDescription>

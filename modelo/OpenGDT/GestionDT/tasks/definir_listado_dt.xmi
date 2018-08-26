@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-eqntzRaLeGX8yV7IZ3o4kg" name="definir_listado_dt,_EcKlQJ5jEeiRvrusyhDULg" guid="-eqntzRaLeGX8yV7IZ3o4kg">
+  <sections xmi:id="_-eKfYKT9Eeidi82NuABH1Q" name="Recopilar información del análisis estático de código" guid="_-eKfYKT9Eeidi82NuABH1Q"/>
+  <sections xmi:id="_DMRfAKTXEeidi82NuABH1Q" name="Seleccionar archivos que presentan DT según inventario de identificación" guid="_DMRfAKTXEeidi82NuABH1Q"/>
+  <sections xmi:id="_TLxooKTXEeidi82NuABH1Q" name="Seleccionar la DT que se relaciona con los modulos y desarrollos estratégicos" guid="_TLxooKTXEeidi82NuABH1Q"/>
+</org.eclipse.epf.uma:TaskDescription>

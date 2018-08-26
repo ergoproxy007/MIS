@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zrE2ePmymk970dgB6Dvmfw" name="tecnicas_capital,_01S9EJ5tEeiRvrusyhDULg" guid="-zrE2ePmymk970dgB6Dvmfw">
+  <sections xmi:id="_wZxoUKThEeidi82NuABH1Q" name="Seleccionar métodos para la estimación de capital" guid="_wZxoUKThEeidi82NuABH1Q"/>
+  <sections xmi:id="_yfzgsKThEeidi82NuABH1Q" name="Aplicar métodos para la estimación de capital" guid="_yfzgsKThEeidi82NuABH1Q"/>
+  <sections xmi:id="_7vC3cKThEeidi82NuABH1Q" name="Estimar capital en DT de código" guid="_7vC3cKThEeidi82NuABH1Q"/>
+  <sections xmi:id="__yHrUKThEeidi82NuABH1Q" name="Estimar capital en DT de diseño" guid="__yHrUKThEeidi82NuABH1Q"/>
+  <sections xmi:id="_A3YDMKTiEeidi82NuABH1Q" name="Estimar capital en DT de arquitectura" guid="_A3YDMKTiEeidi82NuABH1Q"/>
+  <sections xmi:id="_B3SoEKTiEeidi82NuABH1Q" name="Estimar capital en DT de pruebas" guid="_B3SoEKTiEeidi82NuABH1Q"/>
+  <sections xmi:id="_1r7ecKThEeidi82NuABH1Q" name="Registrar y documentar estimación de capital" guid="_1r7ecKThEeidi82NuABH1Q"/>
+</org.eclipse.epf.uma:TaskDescription>
