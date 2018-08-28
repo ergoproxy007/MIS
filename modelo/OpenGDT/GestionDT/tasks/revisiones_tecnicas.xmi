@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TJGVgtwRtsUTRh099BwXhw" name="revisiones_tecnicas,_986sEJ5xEeiRvrusyhDULg" guid="-TJGVgtwRtsUTRh099BwXhw">
+  <sections xmi:id="_rldtwKlgEeiK_JhVtUu6Wg" name="Reunirse con arquitectos o líderes técnicos para resolver inquietudes y dar retroalimentación en el pago de la DT" guid="_rldtwKlgEeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_0w5bMKljEeiK_JhVtUu6Wg" name="Reunión con equipo de desarrollo para discutir sobre una solución a un problema específico" guid="_0w5bMKljEeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_1_qKAKmHEeiK_JhVtUu6Wg" name="Discusión y revisiones de código compartido entre los desarrolladores" guid="_1_qKAKmHEeiK_JhVtUu6Wg"/>
+</org.eclipse.epf.uma:TaskDescription>

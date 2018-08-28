@@ -8,7 +8,7 @@
     <styles xmi:type="notation:GuideStyle" xmi:id="_v1C2k58uEeiJnaL32V111A"/>
     <styles xmi:type="notation:DescriptionStyle" xmi:id="_v1C2lJ8uEeiJnaL32V111A"/>
   </notation:Diagram>
-  <org.eclipse.epf.diagram.model:ActivityDetailDiagram xmi:id="_v1ydcJ8uEeiJnaL32V111A" autoLayout="true">
+  <org.eclipse.epf.diagram.model:ActivityDetailDiagram xmi:id="_v1ydcJ8uEeiJnaL32V111A">
     <linkedElement xmi:type="org.eclipse.epf.uma:Activity" href="uma://_y0CNwJ5eEeiRvrusyhDULg#_oBJJUZ8WEeiJnaL32V111A"/>
     <nodes xmi:type="org.eclipse.epf.diagram.model:RoleTaskComposite" xmi:id="_Y5WIIJ80EeiJnaL32V111A">
       <nodes xmi:type="org.eclipse.epf.diagram.model:RoleNode" xmi:id="_Y5WIIZ80EeiJnaL32V111A" name="Arquitecto"/>
@@ -460,7 +460,7 @@
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_42OlwJ-HEeiJnaL32V111A" id="(0.11904761904761904,0.5102040816326531)"/>
     </edges>
   </notation:Diagram>
-  <org.eclipse.epf.diagram.model:ActivityDetailDiagram xmi:id="_lrpvYKT6Eeidi82NuABH1Q" autoLayout="true">
+  <org.eclipse.epf.diagram.model:ActivityDetailDiagram xmi:id="_lrpvYKT6Eeidi82NuABH1Q">
     <linkedElement xmi:type="org.eclipse.epf.uma:Activity" href="uma://_y0CNwJ5eEeiRvrusyhDULg#_bPOzoaTVEeidi82NuABH1Q"/>
   </org.eclipse.epf.diagram.model:ActivityDetailDiagram>
   <notation:Diagram xmi:id="_lrpvYaT6Eeidi82NuABH1Q" type="ADD" element="_lrpvYKT6Eeidi82NuABH1Q" name="Iteracion Medicion" measurementUnit="Pixel">
@@ -682,5 +682,24 @@
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_M63ZVKdKEeiakvLLhnBofA" points="[53, -4, -104, 8]$[170, -23, 13, -11]"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_M64AYKdKEeiakvLLhnBofA" id="(0.7719298245614035,0.24489795918367346)"/>
     </edges>
+  </notation:Diagram>
+  <uml:Activity xmi:id="_2SigAKlWEeiK_JhVtUu6Wg" name="Fase Priorizacion"/>
+  <notation:Diagram xmi:id="_2Sh48KlWEeiK_JhVtUu6Wg" type="AD" element="_2SigAKlWEeiK_JhVtUu6Wg" name="Fase Priorizacion" measurementUnit="Pixel"/>
+  <uml:Activity xmi:id="_2SjHEKlWEeiK_JhVtUu6Wg" name="Fase Priorizacion">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_2SjHEalWEeiK_JhVtUu6Wg" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2SjHEqlWEeiK_JhVtUu6Wg" key="uri" value="uma://_y0CNwJ5eEeiRvrusyhDULg#_WJhmoaddEeiakvLLhnBofA"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2SjHE6lWEeiK_JhVtUu6Wg" key="type" value="Activity"/>
+    </eAnnotations>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_9gn3bKlWEeiK_JhVtUu6Wg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_9gn3balWEeiK_JhVtUu6Wg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_9gn3bqlWEeiK_JhVtUu6Wg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_9gn3b6lWEeiK_JhVtUu6Wg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_9goeYKlWEeiK_JhVtUu6Wg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_9goeYalWEeiK_JhVtUu6Wg"/>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_2SjHFKlWEeiK_JhVtUu6Wg" type="AD" element="_2SjHEKlWEeiK_JhVtUu6Wg" name="Fase Priorizacion" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_2SjHFalWEeiK_JhVtUu6Wg"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_2SjHFqlWEeiK_JhVtUu6Wg"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_2SjHF6lWEeiK_JhVtUu6Wg"/>
   </notation:Diagram>
 </xmi:XMI>

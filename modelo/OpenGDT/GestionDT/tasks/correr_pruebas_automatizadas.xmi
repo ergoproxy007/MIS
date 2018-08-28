@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bsUCE9b4FxOvzZSDLmAKmA" name=",_EKFK4KmUEeiK_JhVtUu6Wg" guid="-bsUCE9b4FxOvzZSDLmAKmA">
+  <sections xmi:id="_J5PtIKmUEeiK_JhVtUu6Wg" name="Correr pruebas automatizadas del código como medida de prevención" guid="_J5PtIKmUEeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_VFLaEKmUEeiK_JhVtUu6Wg" name="Corregir pruebas automatizadas" guid="_VFLaEKmUEeiK_JhVtUu6Wg"/>
+</org.eclipse.epf.uma:TaskDescription>

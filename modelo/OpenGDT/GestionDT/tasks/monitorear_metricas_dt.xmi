@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-n3mT7LJISRyPLGizHlaZ1Q" name="monitorear_metricas_dt,_bJS_UJ51EeiRvrusyhDULg" guid="-n3mT7LJISRyPLGizHlaZ1Q">
+  <sections xmi:id="_dmEG8KmdEeiK_JhVtUu6Wg" name="Recopilar información de los seguimientos y observación" guid="_dmEG8KmdEeiK_JhVtUu6Wg"/>
+</org.eclipse.epf.uma:TaskDescription>

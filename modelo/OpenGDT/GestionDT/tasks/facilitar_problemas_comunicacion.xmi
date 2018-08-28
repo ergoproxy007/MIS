@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sZYJjE84983HundhFzFNGg" name=",_Jv7ykKm0EeiK_JhVtUu6Wg" guid="-sZYJjE84983HundhFzFNGg">
+  <sections xmi:id="_lpQ0cKm1EeiK_JhVtUu6Wg" name="Comunicar con evidencias los problemas concretos" guid="_lpQ0cKm1EeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_mQ8fgKm1EeiK_JhVtUu6Wg" name="Definir el nivel de severidad, urgencia, costos y beneficios para poder evaluar el riesgo" guid="_mQ8fgKm1EeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_qwRxkKm1EeiK_JhVtUu6Wg" name="Establecer un nivel de transparencia y confianza en el proceso" guid="_qwRxkKm1EeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_D0uGcKm2EeiK_JhVtUu6Wg" name="Esteblecer espacios de comunicación entre Desarrolladores, Arquitectos, Cliente, Gerencia, entre otros" guid="_D0uGcKm2EeiK_JhVtUu6Wg"/>
+</org.eclipse.epf.uma:TaskDescription>

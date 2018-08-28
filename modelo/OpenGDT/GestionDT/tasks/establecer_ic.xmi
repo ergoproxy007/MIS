@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7F-nrPDoBGG3B9uZstgOEA" name="establecer_integracion_continua,_LxIp4J5yEeiRvrusyhDULg" guid="-7F-nrPDoBGG3B9uZstgOEA">
+  <sections xmi:id="_xf4BQKlhEeiK_JhVtUu6Wg" name="Definir artefactos de software relacionados con la DT y demás que sean relevantes para la integración continua" guid="_xf4BQKlhEeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_1uf90KlhEeiK_JhVtUu6Wg" name="Definir Herramientas para la integración continua" guid="_1uf90KlhEeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_p4WPMKlhEeiK_JhVtUu6Wg" name="Definir flujo de integración continua" guid="_p4WPMKlhEeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_Dq6OUKliEeiK_JhVtUu6Wg" name="Integración al flujo de integración continua" guid="_Dq6OUKliEeiK_JhVtUu6Wg"/>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pGBFNiKnTQ6A-UWesY1LQw" name="priorizar_por_objetivos,_kBpu0J5vEeiRvrusyhDULg" guid="-pGBFNiKnTQ6A-UWesY1LQw">
+  <sections xmi:id="_0ar-0KlcEeiK_JhVtUu6Wg" name="Problemas relacionados con refactorización, seguridad o rendimiento" guid="_0ar-0KlcEeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_aqzDwKldEeiK_JhVtUu6Wg" name="factores como el tiempo, la funcionalidad, el mantenimiento posterior, la escalabilidad, el valor comercial y los planes futuros" guid="_aqzDwKldEeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_s_5y0KldEeiK_JhVtUu6Wg" name="Relación con la historias de usuario y backlog" guid="_s_5y0KldEeiK_JhVtUu6Wg"/>
+</org.eclipse.epf.uma:TaskDescription>

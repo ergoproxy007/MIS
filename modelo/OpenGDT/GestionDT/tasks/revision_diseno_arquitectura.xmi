@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EU7eT2h6hO8JNzCviFXWdQ" name="revision_diseno_arquitectura,_XB8k4J50EeiRvrusyhDULg" guid="-EU7eT2h6hO8JNzCviFXWdQ">
+  <sections xmi:id="_mz73oKmQEeiK_JhVtUu6Wg" name="Reunirse con arquitectos o líderes técnicos para resolver inquietudes y dar retroalimentación de diseño y arquitectura relacionada con la DT" guid="_mz73oKmQEeiK_JhVtUu6Wg"/>
+</org.eclipse.epf.uma:TaskDescription>

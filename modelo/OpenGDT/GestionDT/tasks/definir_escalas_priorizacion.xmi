@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-N7V6yu88IRosGC8WuO6-yA" name=",_dvhq8KlbEeiK_JhVtUu6Wg" guid="-N7V6yu88IRosGC8WuO6-yA">
+  <sections xmi:id="_UAFUsKlcEeiK_JhVtUu6Wg" name="Crear escalas de priorización, por ejemplo, baja, media, alta o bloqueadora" guid="_UAFUsKlcEeiK_JhVtUu6Wg"/>
+</org.eclipse.epf.uma:TaskDescription>

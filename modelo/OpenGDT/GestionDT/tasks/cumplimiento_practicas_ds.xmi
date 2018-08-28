@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MuS6kFa5znwzYj7LW7mkfw" name="cumplimiento_practicas_codificacion,_kZuTwJ5zEeiRvrusyhDULg" guid="-MuS6kFa5znwzYj7LW7mkfw">
+  <sections xmi:id="_fPWMMKmNEeiK_JhVtUu6Wg" name="Prevención de deuda técnica utilizando estándares de codificación y prácticas de revisión de código" guid="_fPWMMKmNEeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_TFoEgKmREeiK_JhVtUu6Wg" name="Construir un plan de motivación y estrategias de incentivos" guid="_TFoEgKmREeiK_JhVtUu6Wg"/>
+</org.eclipse.epf.uma:TaskDescription>
