@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mU2iKtH9zUWY06nb02onzA" name="seguimiento_items_dt,_8RvcUJ50EeiRvrusyhDULg" guid="-mU2iKtH9zUWY06nb02onzA">
-  <sections xmi:id="_Pg9RoKmWEeiK_JhVtUu6Wg" name="Realizar observaciones sobre los items de deuda técnica que no han sido solucionados, para evaluar su evolución en términos de costo y beneficio" guid="_Pg9RoKmWEeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_Pg9RoKmWEeiK_JhVtUu6Wg" name="Analizar los ítems de DT para una iteraciones futuras, y determinar si la solución de estos tienen beneficios a corto plazo" guid="_Pg9RoKmWEeiK_JhVtUu6Wg"/>
 </org.eclipse.epf.uma:TaskDescription>
