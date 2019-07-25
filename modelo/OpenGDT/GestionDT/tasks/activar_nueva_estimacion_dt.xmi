@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-W9tCsXRV-sjiHBCuAZXAJQ" name=",_zlnGQKmDEeiK_JhVtUu6Wg" guid="-W9tCsXRV-sjiHBCuAZXAJQ">
-  <sections xmi:id="_GtVIkKmFEeiK_JhVtUu6Wg" name="Se identifica la necesidad de hacer una nueva estimacion DT " guid="_GtVIkKmFEeiK_JhVtUu6Wg"/>
-  <sections xmi:id="_GX9VgKmFEeiK_JhVtUu6Wg" name="Realizar nueva estimacion de DT " guid="_GX9VgKmFEeiK_JhVtUu6Wg"/>
-</org.eclipse.epf.uma:TaskDescription>

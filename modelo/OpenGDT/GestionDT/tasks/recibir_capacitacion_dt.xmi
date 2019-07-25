@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Z_ltcbiRCC3MKx_53MS_pw" name="recibir_capacitacion_dt,_0zXCsJ-GEeiJnaL32V111A" guid="-Z_ltcbiRCC3MKx_53MS_pw">
-  <sections xmi:id="_SRWIEKTUEeidi82NuABH1Q" name="Capacitarse en DT de Código" guid="_SRWIEKTUEeidi82NuABH1Q"/>
-  <sections xmi:id="_alRtIKTUEeidi82NuABH1Q" name="Capacitarse en DT de Diseño" guid="_alRtIKTUEeidi82NuABH1Q"/>
-  <sections xmi:id="_cYiagKTUEeidi82NuABH1Q" name="Capacitarse en DT de Arquitectura" guid="_cYiagKTUEeidi82NuABH1Q"/>
-  <sections xmi:id="_dt6SAKTUEeidi82NuABH1Q" name="Capacitarse en DT de Pruebas" guid="_dt6SAKTUEeidi82NuABH1Q"/>
-</org.eclipse.epf.uma:TaskDescription>

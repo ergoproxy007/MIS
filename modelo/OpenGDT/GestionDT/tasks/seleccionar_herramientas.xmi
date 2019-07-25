@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4U8b-cy5OwuF-9gq5QDQ5g" name="seleccionar_herramientas,_9a0UUJ5gEeiRvrusyhDULg" guid="-4U8b-cy5OwuF-9gq5QDQ5g">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4U8b-cy5OwuF-9gq5QDQ5g" name="seleccionar_herramientas,_9a0UUJ5gEeiRvrusyhDULg" guid="-4U8b-cy5OwuF-9gq5QDQ5g" changeDate="2019-07-23T11:09:59.532-0500">
   <sections xmi:id="_6nkNoKTDEeidi82NuABH1Q" name="Conocer las herramientas para la identificación de DT según los tipos selecciondas" guid="_6nkNoKTDEeidi82NuABH1Q"/>
   <sections xmi:id="_ttMMcKTEEeidi82NuABH1Q" name="Conocer las herramientas que mejor se adaptan a tu infraestructura" guid="_ttMMcKTEEeidi82NuABH1Q"/>
   <sections xmi:id="_XrkS4KTFEeidi82NuABH1Q" name="Seleccionar las herramientas para la identificación de DT" guid="_XrkS4KTFEeidi82NuABH1Q"/>

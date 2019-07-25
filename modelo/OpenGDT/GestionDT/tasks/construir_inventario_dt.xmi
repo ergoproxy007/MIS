@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Op8D6rmEWtKFvQjA6s7kuA" name="construir_inventario_dt,_GiRyoJ5iEeiRvrusyhDULg" guid="-Op8D6rmEWtKFvQjA6s7kuA">
-  <sections xmi:id="_L6X0YKTTEeidi82NuABH1Q" name="Elaborar inventario de DT producto de la identificación automática" guid="_L6X0YKTTEeidi82NuABH1Q"/>
-  <sections xmi:id="_cDd-4KTTEeidi82NuABH1Q" name="Elaborar inventario de DT producto de la identificación manual" guid="_cDd-4KTTEeidi82NuABH1Q"/>
-  <sections xmi:id="_lx-rkKTTEeidi82NuABH1Q" name="Relacionar DT identificada con requerimientos estratégico" guid="_lx-rkKTTEeidi82NuABH1Q"/>
-</org.eclipse.epf.uma:TaskDescription>
