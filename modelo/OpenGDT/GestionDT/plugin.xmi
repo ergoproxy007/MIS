@@ -32,7 +32,7 @@
     <resourceDescriptors xmi:id="_iAe3EKmNEeiK_JhVtUu6Wg" id="-MuS6kFa5znwzYj7LW7mkfw" uri="tasks/cumplimiento_practicas_ds.xmi"/>
     <resourceDescriptors xmi:id="_AdzDMKmQEeiK_JhVtUu6Wg" id="-SO9Mt_TJGtbuIemmoKkTCw" uri="tasks/identificar_nueva_dt.xmi"/>
     <resourceDescriptors xmi:id="_m_oKQKmQEeiK_JhVtUu6Wg" id="-EU7eT2h6hO8JNzCviFXWdQ" uri="tasks/revision_diseno_arquitectura.xmi"/>
-    <resourceDescriptors xmi:id="_LeqTIKmREeiK_JhVtUu6Wg" id="-phChaBdvWqeDyNmskhnDpQ" uri="tasks/continuar_capacitaciones_practicas_ds.xmi"/>
+    <resourceDescriptors xmi:id="_LeqTIKmREeiK_JhVtUu6Wg" id="-phChaBdvWqeDyNmskhnDpQ" uri="tasks/plan_formacion_practicas_ds.xmi"/>
     <resourceDescriptors xmi:id="_rC3gwKmREeiK_JhVtUu6Wg" id="-mpIA2Jokml_pgB0IoEhlJw" uri="tasks/apoyo_herramientas_gdt.xmi"/>
     <resourceDescriptors xmi:id="_WreUYKmSEeiK_JhVtUu6Wg" id="-QK0iqzr_JqXEgyyIcK9w5A" uri="tasks/definicion_DT_terminada.xmi"/>
     <resourceDescriptors xmi:id="_5PlBoKmSEeiK_JhVtUu6Wg" id="-yheAa4nRE0xtE28eCKJq3A" uri="tasks/definicion_estilo_desarrollo.xmi"/>
@@ -397,7 +397,7 @@
             <methodElementProperty xmi:id="_1m0ccJ50EeiRvrusyhDULg" name="me_edited" value="true"/>
             <presentation xmi:id="-mpIA2Jokml_pgB0IoEhlJw" href="uma://-mpIA2Jokml_pgB0IoEhlJw#-mpIA2Jokml_pgB0IoEhlJw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_lGyyoKmLEeiK_JhVtUu6Wg" name="continuar_capacitaciones_practicas_ds" guid="_lGyyoKmLEeiK_JhVtUu6Wg" presentationName="Continuar capacitaciones de prácticas de desarrollo de software" briefDescription="Continuar capacitaciones sobre buenas practicas de desarrollo de software" performedBy="_o_8UAKThEeidi82NuABH1Q" mandatoryInput="_v18gIKmPEeiK_JhVtUu6Wg" output="_yGdxQKmPEeiK_JhVtUu6Wg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_lGyyoKmLEeiK_JhVtUu6Wg" name="plan_formacion_practicas_ds" guid="_lGyyoKmLEeiK_JhVtUu6Wg" presentationName="Plan de formación en prácticas de desarrollo de software" briefDescription="Continuar capacitaciones sobre buenas prácticas de desarrollo de software" performedBy="_o_8UAKThEeidi82NuABH1Q" mandatoryInput="_v18gIKmPEeiK_JhVtUu6Wg" output="_yGdxQKmPEeiK_JhVtUu6Wg">
             <methodElementProperty xmi:id="_pb38gKmLEeiK_JhVtUu6Wg" name="me_edited" value="true"/>
             <presentation xmi:id="-phChaBdvWqeDyNmskhnDpQ" href="uma://-phChaBdvWqeDyNmskhnDpQ#-phChaBdvWqeDyNmskhnDpQ"/>
           </contentElements>
