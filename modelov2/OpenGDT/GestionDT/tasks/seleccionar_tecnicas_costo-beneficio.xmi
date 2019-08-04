@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-T9fvBoG3dNUNATJ4zQ-Vpw" name="seleccionar_tecnicas_costo-beneficio,_TfvRIJ5uEeiRvrusyhDULg" guid="-T9fvBoG3dNUNATJ4zQ-Vpw">
+  <sections xmi:id="_rveCEKTxEeidi82NuABH1Q" name="Seleccionar métodos para la estimación según costo-beneficio" guid="_rveCEKTxEeidi82NuABH1Q"/>
+  <sections xmi:id="_uxMtsKTxEeidi82NuABH1Q" name="Aplicar métodos para la estimación según costo-beneficio" guid="_uxMtsKTxEeidi82NuABH1Q"/>
+  <sections xmi:id="_zp5iAKTxEeidi82NuABH1Q" name="Registrar y documentar estimación según costo-beneficio" guid="_zp5iAKTxEeidi82NuABH1Q"/>
+</org.eclipse.epf.uma:TaskDescription>

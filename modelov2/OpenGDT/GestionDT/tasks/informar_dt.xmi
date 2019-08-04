@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pJirZ9L129cX73yvhX-DKQ" name="medir_e_informar_dt2,_WnsA8KT6Eeidi82NuABH1Q" guid="-pJirZ9L129cX73yvhX-DKQ">
+  <sections xmi:id="_WnsA8qT6Eeidi82NuABH1Q" name="Informar la estimación de DT a los integrantes del proyectos" guid="_WnsA8qT6Eeidi82NuABH1Q"/>
+</org.eclipse.epf.uma:TaskDescription>

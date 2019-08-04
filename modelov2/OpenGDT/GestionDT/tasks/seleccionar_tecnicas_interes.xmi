@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ia6GNl5Lyzlc945_kl-2oQ" name="seleccionar_metodos_medicion,_omNxEJ5tEeiRvrusyhDULg" guid="-ia6GNl5Lyzlc945_kl-2oQ">
+  <sections xmi:id="_Ftyv0KTzEeidi82NuABH1Q" name="Seleccionar métodos para la estimación de interés" guid="_Ftyv0KTzEeidi82NuABH1Q"/>
+  <sections xmi:id="_HlClUKTzEeidi82NuABH1Q" name="Aplicar métodos para la estimación de interés" guid="_HlClUKTzEeidi82NuABH1Q"/>
+  <sections xmi:id="_JVa90KTzEeidi82NuABH1Q" name="Estimar interés en DT de código" guid="_JVa90KTzEeidi82NuABH1Q"/>
+  <sections xmi:id="_LKK48KTzEeidi82NuABH1Q" name="Estimar interés en DT de diseño" guid="_LKK48KTzEeidi82NuABH1Q"/>
+  <sections xmi:id="_NWGlAKTzEeidi82NuABH1Q" name="Estimar interés en DT de arquitectura" guid="_NWGlAKTzEeidi82NuABH1Q"/>
+  <sections xmi:id="_O_sZAKTzEeidi82NuABH1Q" name="Estimar interés en DT de pruebas" guid="_O_sZAKTzEeidi82NuABH1Q"/>
+  <sections xmi:id="_QsXWMKTzEeidi82NuABH1Q" name="Registrar y documentar estimación de interés" guid="_QsXWMKTzEeidi82NuABH1Q"/>
+</org.eclipse.epf.uma:TaskDescription>

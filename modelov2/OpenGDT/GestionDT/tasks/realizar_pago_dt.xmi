@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wquMr-ZPXc8vQ8BppT9hbA" name="realizar_pago_dt,_TNAlkJ5yEeiRvrusyhDULg" guid="-wquMr-ZPXc8vQ8BppT9hbA">
+  <sections xmi:id="_GDddQKlmEeiK_JhVtUu6Wg" name="Pagar deuda técnica priorizada" guid="_GDddQKlmEeiK_JhVtUu6Wg"/>
+  <sections xmi:id="__WTBsKllEeiK_JhVtUu6Wg" name="Implementar técnicas y buenas prácticas de codificación para disminuir la deuda técnica" guid="__WTBsKllEeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_bnwFIKlmEeiK_JhVtUu6Wg" name="Implementar calidad interna como refactorización, automatización de pruebas, DevOps, seguridad y rendimiento" guid="_bnwFIKlmEeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_VrjkwKlsEeiK_JhVtUu6Wg" name="Visualizar las métricas de DT después de realizado el pago" guid="_VrjkwKlsEeiK_JhVtUu6Wg"/>
+</org.eclipse.epf.uma:TaskDescription>

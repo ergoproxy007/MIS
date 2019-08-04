@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-G3xqlArtAec-WigEXCku8A" name="discutir_logros_gdt,_EN3I4J52EeiRvrusyhDULg" guid="-G3xqlArtAec-WigEXCku8A">
+  <sections xmi:id="_7cQdIKmpEeiK_JhVtUu6Wg" name="Resumen de la gestión de la deuda técnica realizada por el equipo de desarrollo en un periodo concreto" guid="_7cQdIKmpEeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_RHImcKmwEeiK_JhVtUu6Wg" name="Enumerar las prioridades identificadas en la gestión y remediación de DT" guid="_RHImcKmwEeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_TkAmoKmyEeiK_JhVtUu6Wg" name="Informar nuevas evidencias y características a tener en cuenta para la priorización a los interesados" guid="_TkAmoKmyEeiK_JhVtUu6Wg"/>
+</org.eclipse.epf.uma:TaskDescription>

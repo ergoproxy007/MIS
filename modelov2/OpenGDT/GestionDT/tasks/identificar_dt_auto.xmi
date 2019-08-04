@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-htNC1K9xklN1hPt-kq7bKg" name="identificar_dt_auto,_TiA08J5hEeiRvrusyhDULg" guid="-htNC1K9xklN1hPt-kq7bKg">
+  <sections xmi:id="_k0K5IKTLEeidi82NuABH1Q" name="Ejecutar análisis de código estático para la identificación de DT" guid="_k0K5IKTLEeidi82NuABH1Q"/>
+  <sections xmi:id="_gpQbEKTPEeidi82NuABH1Q" name="Ir a plan de relacionamiento de DT" guid="_gpQbEKTPEeidi82NuABH1Q"/>
+</org.eclipse.epf.uma:TaskDescription>

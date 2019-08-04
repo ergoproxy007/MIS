@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9Q44zIB6Vfcx5TDrvQ7z0w" name="definir_tipos_dt,_Yqs38J5fEeiRvrusyhDULg" guid="-9Q44zIB6Vfcx5TDrvQ7z0w" changeDate="2019-07-23T11:09:51.152-0500">
+  <sections xmi:id="_VdSB8KS7Eeidi82NuABH1Q" name="Conocer los tipos de deuda técnica" guid="_VdSB8KS7Eeidi82NuABH1Q"/>
+  <sections xmi:id="_Mep14KTCEeidi82NuABH1Q" name="Definir tipos de deuda técnica por importancia estratégica" guid="_Mep14KTCEeidi82NuABH1Q"/>
+  <sections xmi:id="_N102cKS9Eeidi82NuABH1Q" name="Seleccionar tipos de deuda técnica a disminuir en el proyecto" guid="_N102cKS9Eeidi82NuABH1Q"/>
+</org.eclipse.epf.uma:TaskDescription>

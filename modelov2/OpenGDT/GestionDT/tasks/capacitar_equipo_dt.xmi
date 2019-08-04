@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EWMIAryKSJGEV-sWCHNtbA" name="capacitar_equipo_dt,_LFzdoJ5hEeiRvrusyhDULg" guid="-EWMIAryKSJGEV-sWCHNtbA">
+  <sections xmi:id="_PkYecKTHEeidi82NuABH1Q" name="Definir plan de capacitación" guid="_PkYecKTHEeidi82NuABH1Q"/>
+  <sections xmi:id="_xfAJ0KTHEeidi82NuABH1Q" name="Capacitar sobre los tipos de DT seleccionadas" guid="_xfAJ0KTHEeidi82NuABH1Q"/>
+  <sections xmi:id="_2r6TkKTHEeidi82NuABH1Q" name="Capacitar sobre las herramientas para la detección de DT" guid="_2r6TkKTHEeidi82NuABH1Q"/>
+  <sections xmi:id="_EBemgKTIEeidi82NuABH1Q" name="Explicar las métricas de DT" guid="_EBemgKTIEeidi82NuABH1Q"/>
+  <sections xmi:id="_gDv-cKTIEeidi82NuABH1Q" name="Capacitar en el uso de técnicas de buena calidad de desarrollo" guid="_gDv-cKTIEeidi82NuABH1Q"/>
+</org.eclipse.epf.uma:TaskDescription>

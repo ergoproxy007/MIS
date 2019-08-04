@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TdUwRaMBSdwSkSQIxccc9Q" name="establecer_practicas_codificacion,_qfcmwJ5xEeiRvrusyhDULg" guid="-TdUwRaMBSdwSkSQIxccc9Q">
+  <sections xmi:id="_LFQAUKlfEeiK_JhVtUu6Wg" name="Búsqueda de buenas practicas de codificación optimas para la remediación de DT" guid="_LFQAUKlfEeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_S1UqYKlfEeiK_JhVtUu6Wg" name="Selección de buenas prácticas para la remediación de DT " guid="_S1UqYKlfEeiK_JhVtUu6Wg"/>
+</org.eclipse.epf.uma:TaskDescription>

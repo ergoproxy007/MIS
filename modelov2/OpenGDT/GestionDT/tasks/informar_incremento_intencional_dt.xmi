@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sWJoiuQMHByWvztNJsn3EA" name="informar_incremento_intencional_dt,_lyR3kJ5yEeiRvrusyhDULg" guid="-sWJoiuQMHByWvztNJsn3EA">
+  <sections xmi:id="_lZtqQKltEeiK_JhVtUu6Wg" name="Recopilar de la base de código el incremento intencional de DT" guid="_lZtqQKltEeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_olj7MKltEeiK_JhVtUu6Wg" name="Recopilar de la base de código el incremento no intencional de DT" guid="_olj7MKltEeiK_JhVtUu6Wg"/>
+</org.eclipse.epf.uma:TaskDescription>

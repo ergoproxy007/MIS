@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ITMfE9L-T2wxp4GpB2X6kA" name="registrar_medicion_dt,_ISpf8KT4Eeidi82NuABH1Q" guid="-ITMfE9L-T2wxp4GpB2X6kA">
+  <sections xmi:id="_4vRmwKT5Eeidi82NuABH1Q" name="Registrar medición de DT en backlog" guid="_4vRmwKT5Eeidi82NuABH1Q"/>
+  <sections xmi:id="_QRqk8KT4Eeidi82NuABH1Q" name="Gestión del backlog para la medición de DT" guid="_QRqk8KT4Eeidi82NuABH1Q"/>
+</org.eclipse.epf.uma:TaskDescription>

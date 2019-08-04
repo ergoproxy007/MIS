@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KZN4MbPWeb7K8VqBPKFLEA" name="establecer_importancia_remediacion,_IndggKllEeiK_JhVtUu6Wg" guid="-KZN4MbPWeb7K8VqBPKFLEA">
+  <sections xmi:id="_YtoS0KllEeiK_JhVtUu6Wg" name="Definir el nivel de importancia de la remediación de DT para la construcción de nuevas funcionalidades" guid="_YtoS0KllEeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_Oy5gUKlrEeiK_JhVtUu6Wg" name="Establecer porcentaje minimo de tiempo de desarrollo para realizar el pago de DT" guid="_Oy5gUKlrEeiK_JhVtUu6Wg"/>
+</org.eclipse.epf.uma:TaskDescription>

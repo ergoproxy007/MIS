@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mpIA2Jokml_pgB0IoEhlJw" name="apoyo_herramientas_gdt,_v_JCQJ50EeiRvrusyhDULg" guid="-mpIA2Jokml_pgB0IoEhlJw">
+  <sections xmi:id="_h8kqoKmREeiK_JhVtUu6Wg" name="Recoger información de la remediación de la DT y seguir definiendo estrategia de gestión de la DT" guid="_h8kqoKmREeiK_JhVtUu6Wg"/>
+</org.eclipse.epf.uma:TaskDescription>

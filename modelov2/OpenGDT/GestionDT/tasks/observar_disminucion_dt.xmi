@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4PcwtBSH4aZgo-PYcyV01g" name="observar_disminucion_dt,_U0I0EJ51EeiRvrusyhDULg" guid="-4PcwtBSH4aZgo-PYcyV01g">
+  <sections xmi:id="_HaF0AKmdEeiK_JhVtUu6Wg" name="Activar tareas de de medición y prioriazación" guid="_HaF0AKmdEeiK_JhVtUu6Wg"/>
+  <sections xmi:id="_H-8NgKmdEeiK_JhVtUu6Wg" name="Identificar la disminución de la deuda técnica" guid="_H-8NgKmdEeiK_JhVtUu6Wg"/>
+</org.eclipse.epf.uma:TaskDescription>
